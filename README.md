@@ -9,7 +9,7 @@ I'm a retired software and aeronautics engineer living in South-West England
 - 🌱 I’m currently learning ...
   Dart and Flutter.
   Python and pygame.
-  Micropython
+  Micropython.
   MusicCast and Twonky APIs.
 - 💞️ I’m looking to collaborate on MusicCast
 - 📫 How to reach me ...
